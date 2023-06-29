@@ -32,4 +32,4 @@ def run():
     score3 = 61
     average = (score1+score2+score3)/3
 
-    mylist = [3, 7, 6, 9, 8, 3]e
+    mylist = [3, 7, 6, 9, 8, 3]
